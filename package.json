@@ -20,5 +20,9 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "@next/font": "^14.1.4",
+    "@types/next-auth": "^3.15.0"
+  }
 }
